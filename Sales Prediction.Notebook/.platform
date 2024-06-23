@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Notebook",
+    "displayName": "Sales Prediction",
+    "description": "Sales Prediction"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "ba999594-c1b5-479c-9e83-cd11a34dc403"
+  }
+}
